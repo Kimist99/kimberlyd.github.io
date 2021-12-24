@@ -4,7 +4,7 @@
 
 ## About Kimberly D 
 
-Kimberly is a Chemical and Health Informaticist currently finishing her PhD in Health Informatics. She’s the co-founder of [BlackTIDES](https://https://blacktidesdata.com/) an organization created to support future and current Black Data Professionals and she also works as a Data Educator. Her research interests are in HIV Health Disparities using AI/Machine Learning.
+Kimberly is a Chemical and Health Informaticist currently finishing her PhD in Health Informatics. She’s the co-founder of [BlackTIDES](https://blacktidesdata.com/) an organization created to support future and current Black Data Professionals and she also works as a Data Educator. Her research interests are in HIV Health Disparities using AI/Machine Learning.
 
 
 ![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/chemInfopic.jpeg?raw=true)
