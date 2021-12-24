@@ -1,35 +1,19 @@
-title: Hello, world! I'm Kimberly D!
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "/kimberlyd" # the subpath of your site, e.g. /blog
-url: "https://github.com/Kimist99.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Kimberly D's Informatics Projects Site
 
-# Author Settings
-author: Kimberly D
-author-img: KimNYC21 copy.jpg # add your photo
-about-author: I'm a Chemical and Health Informaticist, Data Science Consultant and Educator, and PhD Candidate in Health Informatics
-social-twitter: @DataKimist
-social-github: Kimist99
-social-linkedin: https://www.linkedin.com/in/kimberly-d-b0570737/
-social-email: Kimist99@gmail.com
+![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/healthDataSciAtGWFeb2020.jpg?raw=true)
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+## About Kimberly D 
 
-# Tracker
-analytics: # Google Analytics
+Kimberly is a Chemical and Health Informaticist currently finishing her PhD in Health Informatics. She’s the co-founder of [BlackTIDES](https://blacktidesdata.com/) an organization created to support future and current Black Data Professionals and she also works as a Data Educator. Her research interests are in HIV Health Disparities using AI/Machine Learning.
 
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/chemInfopic.jpeg?raw=true)
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+## Data Analytics Projects / Websites
+
+- [Tableu Public](https://public.tableau.com/app/profile/kimberly.d6305)
+- [30 Days of Code - 2020](https://github.com/Kimist99/DataKimist_30_Days_Of_Code)
+
+## License
+
+GNU General Public License v3.0
